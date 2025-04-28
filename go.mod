@@ -1,6 +1,6 @@
 module github.com/go-zwbc/jsonzh
 
-go 1.24.2
+go 1.22.8
 
 require (
 	github.com/pkg/errors v0.9.1
