@@ -1,3 +1,8 @@
+// Code generated using sure/sure_pkg_gen. DO NOT EDIT.
+// This file was auto generated via github.com/yyle88/sure
+// Generated from: testing.go:1934 -> testing.tRunner
+// ========== SURE:DO-NOT-EDIT-SECTION:END ==========
+
 package jsonozh
 
 import (
